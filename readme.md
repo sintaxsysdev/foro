@@ -4,6 +4,6 @@
 
 ## Developer by
 
-Sintaxsys Corp.
+Sintaxsys Corporation
 
 Eddy Loayza & Max Sullca
